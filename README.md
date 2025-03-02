@@ -13,4 +13,8 @@ satbuilds/satbuilds is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-hi :) i'm sat
+hi :) i'm sat \
+full-time swe & ai dev, based in mtl
+
+you can find me on twitch at [to be updated]
+
